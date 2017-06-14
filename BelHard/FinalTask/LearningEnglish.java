@@ -16,12 +16,7 @@ import java.util.ArrayList;
 
 public class LearningEnglish {
     public static void main(String[] args) {
-
-        Integer Arr [] = new Integer[5];
-        ArrayList<Integer> arr = new ArrayList<>();
-        arr.add(0,15);
-        arr.add(1,15);
-        System.out.println(arr);
+        
 
     }
 
