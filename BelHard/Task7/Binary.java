@@ -57,11 +57,11 @@ class UseBinary {
 
 
         System.out.println("After >>1  a = " + bin.toBinary((byte)(a>>1))
-                +" ==" +  (byte)(a>>2) + "\n  b = " + bin.toBinary((byte)(b>>1))+" ==" + (byte)(b>>2) );
+                +" ==" +  (byte)(a>>1) + "\n  b = " + bin.toBinary((byte)(b>>1))+" ==" + (byte)(b>>1) );
         System.out.println();// Сдвиг вправо эквивалентен делению на два с отбрасыв остатка
 
         System.out.println("After >>>1  a = " + bin.toBinary((byte)(a>>>1))
-                +" ==" +  (byte)(a>>>2) + "\n  b = " + bin.toBinary((byte)(b>>>1))+" ==" + (byte)(b>>>2) );
+                +" ==" +  (byte)(a>>>1) + "\n  b = " + bin.toBinary((byte)(b>>>1))+" ==" + (byte)(b>>>1) );
         System.out.println();
 
 
