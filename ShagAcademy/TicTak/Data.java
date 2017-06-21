@@ -1,7 +1,7 @@
 package ShagAcademy.TicTak;
 
 /**
- * Created by Антон on 21.06.2017.
+ * Created by Антон on 21.06.2017.fd
  */
 public class Data {
     private int state=1;
