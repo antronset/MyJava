@@ -2,7 +2,7 @@ package Golovach.Lesson4;
 
 /**
  * Created by Антон on 27.06.2017.
- * Пример односвязного списка.
+ * Пример элемента односвязного списка.
  */
 public class Node {
     int value;

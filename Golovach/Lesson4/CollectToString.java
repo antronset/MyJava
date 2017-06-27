@@ -2,6 +2,7 @@ package Golovach.Lesson4;
 
 /**
  * Created by Антон on 27.06.2017.
+ * программа для отображения односвязного списка. 2 Способа
  */
 public class CollectToString {
     public static String toStringIter (Node tail){

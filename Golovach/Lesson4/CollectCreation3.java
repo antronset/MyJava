@@ -2,6 +2,7 @@ package Golovach.Lesson4;
 
 /**
  * Created by Антон on 27.06.2017.
+ * Итеративный способ создания односвязного списка
  */
 public class CollectCreation3 {
 

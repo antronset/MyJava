@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 /**
  * Created by Антон on 27.06.2017.
+ * Рекурсивный способ создания односвязного списка
  */
 public class CollectCreation4 {
     public static Node genRec (int ... v){

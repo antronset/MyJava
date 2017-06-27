@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 /**
  * Created by Антон on 27.06.2017.
+ * Снова рекурсивный способ, но расписан подробнее
  */
 public class CollectCreation5 {
 

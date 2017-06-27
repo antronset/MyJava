@@ -2,6 +2,7 @@ package Golovach.Lesson4;
 
 /**
  * Created by Антон on 27.06.2017.
+ * Простой, но неверный способ создания. Слишком массивный.
  */
 public class CollectCreation1 {
     public static void main(String[] args) {
